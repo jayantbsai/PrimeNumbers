@@ -1,0 +1,18 @@
+/* 
+   Localizable.strings
+   PrimeNumbers
+
+   Created by Jayant Sai on 10/30/10.
+   Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+"configview.type.Star Field" = "Star Field";
+"configview.instructions.Star Field" = "Prime numbers moving out from center of screen. Drag finger along screen to change center.";
+
+"configview.type.Rain" = "Rain";
+"configview.instructions.Rain" = "Prime numbers drop from top of screen. Swipe left/right to change angle of rain.";
+
+"configview.type.Print" = "Print";
+"configview.instructions.Print" = "Simple printing of prime numbers. Numbers fade out after few seconds.";
+
+"configview.Speed" = "Speed";
